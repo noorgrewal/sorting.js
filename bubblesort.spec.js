@@ -11,8 +11,16 @@ describe('Bubble Sort', function(){
   // the array should be flattened ... 
   // spy on the sort method 
   // not allowed to use array to store intermediate result... 
-  // should have a global swap counter... 
+  // . 
+  // it ('should have a global swap counter..', function() {
+  //  var swapCounter = 0;
+  //  spyOn(tootsiepop, 'lick').and.callThrough()
+  //  tootsiepop.lick.calls.count())
+  // expect(swapCounter).toEqual(100);
+  //  })
   // should not use split method 
+
+
   
 });
 
